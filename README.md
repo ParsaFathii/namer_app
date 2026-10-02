@@ -13,6 +13,22 @@
 
 ---
 
+## 📲 Try it · امتحانش کنید
+
+| 🌐 **Live demo** · دموی آنلاین | **[ParsaFathii.github.io/namer_app](https://ParsaFathii.github.io/namer_app/)** — runs right in the browser, no install needed · مستقیم در مرورگر اجرا می‌شود، بدون نصب |
+| 🤖 **Android APK** · نسخهٔ اندروید | **[Latest release](https://github.com/ParsaFathii/namer_app/releases/latest)** — download `app-release.apk` · فایل `app-release.apk` را دانلود کنید |
+
+---
+
+## 📸 Screenshots · اسکرین‌شات‌ها
+
+<p align="center">
+  <img src="docs/images/generator.png" width="240" alt="namer_app — Generator — tap Next for a new pair, Like to save it">
+  <img src="docs/images/favorites.png" width="240" alt="namer_app — Favorites — your saved word pairs">
+</p>
+
+---
+
 ## 🇬🇧 English
 
 My take on the official **Flutter "Write your first Flutter app" codelab**: a business-name generator that produces random word pairs (like "Swift Sunset" or "Crimson Falcon"). You can favorite pairs, browse them on a separate page, and remove the ones you no longer like.
